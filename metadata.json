@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Crypto Futures Bot",
+  "description": "Production-ready automated cryptocurrency futures trading bot for Binance with Telegram integration, multi-layer strategy scoring, and strict risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
